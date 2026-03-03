@@ -26,5 +26,6 @@ Bash script for portfolio. Linux basics:)
 
 ### 1. Клонирование репозитория
 ```bash
-git clone [https://github.com/sunnatilla-05/System-Health-Monitor/linux-portfolio-project.git](https://github.com/sunnatilla-05/System-Health-Monitor.git/linux-portfolio-project.git)
-cd linux-portfolio-project
+Клонируем основной репозиторий
+git clone https://github.com/sunnatilla-05/System-Health-Monitor.git
+cd System-Health-Monitor/linux-portfolio-project
